@@ -1,0 +1,10 @@
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/student_api/target/debug/deps/libsha1-ff7211fa91963e40.rmeta: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/student_api/target/debug/deps/libsha1-ff7211fa91963e40.rlib: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/student_api/target/debug/deps/sha1-ff7211fa91963e40.d: /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs /home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs
+
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/lib.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/soft.rs:
+/home/yuvraj_2004/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-0.10.6/src/compress/x86.rs:

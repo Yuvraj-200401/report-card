@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/mnt/c/Users/HP/Desktop/Blockchain Project/TO-DO APP/student_report_card/student_api/target/debug/build/mime_guess-a1099a8d917d6655/out/mime_types_generated.rs
