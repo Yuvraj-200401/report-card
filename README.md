@@ -15,32 +15,6 @@ A full-stack web application built with **Rust (Actix Web)** and **React** to ge
 
 ---
 
-## 🌐 Live Demo
-
-> Coming soon on [Netlify](https://www.netlify.com/) and [Render](https://render.com/)
-
----
-
-## 📸 Screenshots
-
-### 🖥️ Web UI:
-![UI Screenshot](https://via.placeholder.com/800x400.png?text=Student+Report+Card+Frontend+UI)
-
-### 🧾 PDF Report Card Sample:
-![PDF Preview](https://via.placeholder.com/800x400.png?text=PDF+Report+Card+Sample)
-
-> Replace the image links above with your own screenshots or use GitHub's drag-n-drop to upload.
-
----
-
-## 🎞️ PDF Generation Demo (GIF)
-
-![Demo GIF](https://via.placeholder.com/800x400.gif?text=Generating+PDF+Report+Card)
-
-> Optional: Record with [ScreenToGif](https://www.screentogif.com/) or use [LICEcap](https://www.cockos.com/licecap/) to make a demo GIF.
-
----
-
 ## 🛠 Tech Stack
 
 | Layer        | Technology                  |
